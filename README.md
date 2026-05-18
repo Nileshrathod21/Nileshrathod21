@@ -132,7 +132,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%9A%80;Open+For+Collaboration;Frontend+Developer+%7C+FastAPI+Learner;Building+Modern+Web+Experiences" />
 
 </div>
----
 
 # ⚡ Fun Fact
 
