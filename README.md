@@ -126,9 +126,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
   </a>
 
-  <a href="mailto:im.nileshrathod@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-  </a>
+
 </p>
 
 <br/>
