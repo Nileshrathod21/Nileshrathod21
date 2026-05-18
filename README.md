@@ -35,10 +35,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 ## ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
 
 ## 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ## 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -47,15 +47,7 @@
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
 
 ---
 
@@ -69,13 +61,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
@@ -85,23 +71,17 @@
 <tr>
 <td width="50%">
 
-## 📌 Habit Tracking App
+## 
 
-✨ Admin & User Dashboard  
-✨ Task Assignment System  
-✨ Deadline & Status Tracking  
-✨ Modern Responsive UI  
+ 
 
 </td>
 
 <td width="50%">
 
-## 🍔 Food Delivery App
+## 
 
-✨ Responsive Frontend  
-✨ Cart & Checkout Features  
-✨ Beautiful UI Design  
-✨ Fast Performance  
+
 
 </td>
 </tr>
@@ -113,21 +93,25 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 🌐 Connect With Me
 
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+  </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%9A%80;Open+For+Collaboration;Frontend+Developer+%7C+FastAPI+Learner;Building+Modern+Web+Experiences" />
 
 </div>
 
