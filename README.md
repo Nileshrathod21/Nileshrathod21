@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nilesh Rathod
+# Nilesh Rathod
 
 ### Frontend Developer • Full Stack Learner • AI Enthusiast
 
