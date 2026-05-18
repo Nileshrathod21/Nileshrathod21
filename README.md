@@ -67,25 +67,59 @@
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%">
 
-## 
+## 🎨 Polycruz Project — NFT Marketplace
 
- 
+🔹 High-performance decentralized NFT marketplace  
+🔹 Multi-chain support for EVM-compatible networks  
+🔹 Wallet Integration & Pro Trading UI  
+🔹 Responsive mobile-first design  
+
+### ⚡ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux" />
+</p>
+
+### 🛠️ Features
+- NFT Minting
+- NFT Trading
+- Wallet Authentication
+- Professional UI/UX
+- Responsive Dashboard
 
 </td>
 
 <td width="50%">
 
-## 
+## 📚 Library Management System
 
+🔹 Full Stack Web Application  
+🔹 Secure API & Database Handling  
+🔹 Dynamic React Components  
+🔹 Modern Responsive Interface  
 
+### ⚡ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,java,spring,mysql,tailwind" />
+</p>
+
+### 🛠️ Features
+- Book Management
+- User Authentication
+- CRUD Operations
+- Admin Dashboard
+- Responsive Design
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
