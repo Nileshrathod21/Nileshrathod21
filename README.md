@@ -118,15 +118,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/imnileshrathod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://nilesh-code-canvas.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:im.nileshrathod@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
 </p>
