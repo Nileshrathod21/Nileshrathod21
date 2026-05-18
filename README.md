@@ -111,63 +111,28 @@
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imnileshrathod/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 
   <a href="https://nilesh-code-canvas.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Let's+Connect+%F0%9F%9A%80;Open+for+Collaboration+%F0%9F%A4%9D;Frontend+Developer+%7C+FastAPI+Learner+%F0%9F%92%BB;Building+Modern+Web+Experiences+%E2%9C%A8" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:00C9FF,50:00E676,75:FFB300,100:FF5252&height=100&section=footer"/>
-
-</div>
----
-# 🌐 Connect With Me
-
-<div align="center">
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/imnileshrathod/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0057D9"/>
-</a>
-
-<a href="https://nilesh-code-canvas.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C62828"/>
-</a>
-
+  
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Let's+Build+Something+Amazing+🚀;Open+For+Collaboration+✨;Frontend+Developer+%7C+FastAPI+Learner;Crafting+Modern+Digital+Experiences" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Connect%20%26%20Collaborate&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%9A%80;Open+For+Collaboration;Frontend+Developer+%7C+FastAPI+Learner;Building+Modern+Web+Experiences" />
 
 </div>
+---
 
 # ⚡ Fun Fact
 
