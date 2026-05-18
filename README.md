@@ -139,6 +139,35 @@
 
 </div>
 ---
+# 🌐 Connect With Me
+
+<div align="center">
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/imnileshrathod/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0057D9"/>
+</a>
+
+<a href="https://nilesh-code-canvas.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5B21B6"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C62828"/>
+</a>
+
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Let's+Build+Something+Amazing+🚀;Open+For+Collaboration+✨;Frontend+Developer+%7C+FastAPI+Learner;Crafting+Modern+Digital+Experiences" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Connect%20%26%20Collaborate&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 # ⚡ Fun Fact
 
