@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - Frontend Developer
 - Learning Full Stack Development
-- React.js | Next.js | Node.js
+- React.js | Next.js | python
 
 ## 🛠 Skills
 - HTML
@@ -12,6 +12,8 @@
 - React
 - Next.js
 - Tailwind CSS
+- fast api
+- python
 - Git & GitHub
 
 ## 📫 Connect With Me
